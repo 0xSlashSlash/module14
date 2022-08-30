@@ -15,3 +15,5 @@ RUN1
 RUN2
 
 ![run 2](https://user-images.githubusercontent.com/101845770/187525718-007cebb6-3b9b-4b13-ace8-96ecc948d354.png)
+
+The first model shows very consistent correlation which is nice to note, however the real focus is on the second model. That kind of spread my lead to chances for arbitration or othewise.
